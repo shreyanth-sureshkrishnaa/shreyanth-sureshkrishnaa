@@ -1,4 +1,4 @@
-### Hello, I'm Shreyanth
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=4215D0&width=435&lines=Hello%2C+I'm+Shreyanth.)](https://git.io/typing-svg)
 
 I'm working on cybersecurity, artificial intelligence and full stack web development projects.
 
