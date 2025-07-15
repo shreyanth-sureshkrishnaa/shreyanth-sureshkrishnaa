@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=4215D0&width=435&lines=Hello%2C+I'm+Shreyanth.)](https://git.io/typing-svg)
 
-I'm working on cybersecurity, artificial intelligence and full stack web development projects.
+I have a diverse array of interests. I'm working on cybersecurity, artificial intelligence, quantum computing, and full stack web development projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyanthsureshkrishnaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyanthsureshkrishnaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanthsureshkrishnaa.work@gmail.com) 
